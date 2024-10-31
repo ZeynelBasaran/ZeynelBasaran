@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynel Başaran</h1>
 <h3 align="center">Jr. Front-End Develepor</h3>
 
-- 🔭 I’m currently working on [Projeler](https://github.com/ZeynelBasaran/PROJELER)
+- 🔭 I’m currently working on [E-Ticaret Uygulaması](https://github.com/ZeynelBasaran/Commerce)
 
 - 🌱 I’m currently learning **React**
 
