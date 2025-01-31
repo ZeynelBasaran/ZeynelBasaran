@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zeynel Başaran</h1>
 <h3 align="center">Jr. Front-End Develepor</h3>
 
-- 🔭 [E-Commerce](https://github.com/ZeynelBasaran/ecommerce)
-
-- 🌱 I’m currently learning **Next.js**
+- 🔭 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
 
 - 👯 [QuestionApp](https://github.com/ZeynelBasaran/questionapp)
 
 - 🤝 [Kütüphane Otomasyon Sistemi](https://github.com/ZeynelBasaran/Kitap-Kutuphanesi)
 
 - 👨‍💻 All of Patika Bootcamp projects are available at [https://github.com/ZeynelBasaran/Patika-Bootcamp](https://github.com/ZeynelBasaran/Patika-Bootcamp)
+
+- I’m currently learning **Next.js**
 
 - 📫 How to reach me **zeynelbasaran@hotmail.com**
 
