@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zeynel Başaran</h1>
 <h3 align="center">Jr. Front-End Develepor</h3>
 
-- 🔭 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
+- 👯 [TextManipulator.com](https://textmanipulator.com/)
+  
+- 🔭 [BeyondRewiew.ai](https://www.beyondreview.ai/)
 
-- 👯 [QuestionApp](https://github.com/ZeynelBasaran/questionapp)
+- 👯 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
 
-- 🤝 [Kütüphane Otomasyon Sistemi](https://github.com/ZeynelBasaran/Kitap-Kutuphanesi)
+- 🤝 [Amore Chat Page](https://github.com/ZeynelBasaran/amore)
 
 - 👨‍💻 All of Patika Bootcamp projects are available at [https://github.com/ZeynelBasaran/Patika-Bootcamp](https://github.com/ZeynelBasaran/Patika-Bootcamp)
 
