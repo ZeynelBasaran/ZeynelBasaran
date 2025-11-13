@@ -9,9 +9,9 @@
   
 - 🔭 [DocnovaCase](https://github.com/ZeynelBasaran/docnova)
 
-- 🔭 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
+- 👯 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
 
-- 🤝 [CodezoneCase]([https://codezone-rapkology-case.vercel.app/)
+- 🤝 [CodezoneCase](https://codezone-rapkology-case.vercel.app/)
 
 - 👨‍💻 All of Patika Bootcamp projects are available at [https://github.com/ZeynelBasaran/Patika-Bootcamp](https://github.com/ZeynelBasaran/Patika-Bootcamp)
 
