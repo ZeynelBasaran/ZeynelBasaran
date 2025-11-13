@@ -6,6 +6,8 @@
 - 🔭 [BeyondRewiew.ai](https://www.beyondreview.ai/)
 
 - 👯 [SherrifDns](https://sherrif-dns.vercel.app/)
+  
+- 🔭 [DocnovaCase](https://github.com/ZeynelBasaran/docnova)
 
 - 🔭 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
 
