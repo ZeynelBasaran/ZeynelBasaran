@@ -11,7 +11,7 @@
 
 - 🔭 [E-Commerce](https://github.com/ZeynelBasaran/Commerce)
 
-- 🤝 [Amore Chat Page](https://github.com/ZeynelBasaran/amore)
+- 🤝 [CodezoneCase]([https://codezone-rapkology-case.vercel.app/)
 
 - 👨‍💻 All of Patika Bootcamp projects are available at [https://github.com/ZeynelBasaran/Patika-Bootcamp](https://github.com/ZeynelBasaran/Patika-Bootcamp)
 
