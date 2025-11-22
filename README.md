@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of Patika Bootcamp projects are available at [https://github.com/ZeynelBasaran/Patika-Bootcamp](https://github.com/ZeynelBasaran/Patika-Bootcamp)
 
-- I’m currently learning **Next.js**
+- I’m currently learning **Node.js**
 
 - 📫 How to reach me **zeynelbasaran@hotmail.com**
 
