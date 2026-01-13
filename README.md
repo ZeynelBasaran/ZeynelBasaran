@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynel Başaran</h1>
-<h3 align="center">Full Stack Develepor</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 👯 [TextManipulator.com](https://textmanipulator.com/)
   
